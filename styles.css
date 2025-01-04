@@ -1,0 +1,30 @@
+body {
+    background-color: #0d1017;
+}
+
+u1 {
+    list-style-type: none;
+    display: flex;
+    color: #FFFFFF;
+    background-color: #010409;
+    position: fixed;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+li a {
+    padding: 5px;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #FFFFFF
+}
+
+.active {
+    background-color: #555252;
+}
